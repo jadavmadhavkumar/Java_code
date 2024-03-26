@@ -13,7 +13,7 @@
 <h2>1. Calculate the area of a rectangle</h2>
 <pre><code>
 git clone  https://github.com/jadavmadhavkumar/Java_code/edit/main
-
+</code>
 <h2>2. </h2>
 <pre><code>
   xyz
