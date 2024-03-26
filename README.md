@@ -12,6 +12,4 @@ class work for  Java Advance
 
 <h2>1. Calculate the area of a rectangle</h2>
 <pre><code>
-```java
-// Java program to calculate the area of a rectangle
-// Insert the code snippet for calculating the area of a rectangle here
+git clone  https://github.com/jadavmadhavkumar/Java_code/edit/main
